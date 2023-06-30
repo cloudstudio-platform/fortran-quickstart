@@ -1,0 +1,7 @@
+---
+version: "v1"
+image: "coding-public-docker.pkg.coding.net/cloud-studio-samples/public-images/fortran:2023-06-30.0624"
+name: "Fortran"
+description: "Fortran"
+lifecycle: {}
+
